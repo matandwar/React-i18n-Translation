@@ -1,4 +1,4 @@
-[React JS + i18next + Local Storage Manipulation]
+## React JS + i18next + Local Storage Manipulation
 
 ## Available Scripts
 
